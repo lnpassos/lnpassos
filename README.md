@@ -13,6 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-passos-aa755b209/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.nardo.360@hotmail.com)
 <br>
-### I invite you to take a look at my website:
+### I invite you to take a look at my website 🚀
 <p>https://www.lnpassos.com/</p>
 
