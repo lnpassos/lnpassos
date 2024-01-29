@@ -1,5 +1,8 @@
 ## Hi there! ✌️
 ### My name is Leonardo, welcome to my GitHub 🐈‍⬛
+### I've been a Fullstack Developer for 3 years and have a degree in Systems Analysis and Development from UNISO - University of Sorocaba.
+### I specialize in Web Development, RPA, Machine Learning, and Data Science. My skills include Python, JavaScript, PHP, Java, NodeJS, MySQL, MongoDB, RESTful API, Git, among others.
+
 <div>
   <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
