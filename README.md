@@ -4,7 +4,7 @@
  <br><br>
  I specialize in Web Development, RPA, Machine Learning, and Data Science. My skills include <b>Python</b>, <b>JavaScript</b>, <b>PHP</b>, <b>Java</b>, <b>NodeJS</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>RESTful API</b>, <b>Git</b>, among others.✈️
  <br><br>
- Currently, I am primarily studying Python and its libraries/frameworks, highlighting: <b>Pandas</b> <b>Selenium</b>, <b>Numpy</b>, <b>Django</b>, <b>Flask</b>, and <b>SKlearn</b>.🐍
+ Currently, I am studying Python and its libraries/frameworks, highlighting: <b>Pandas</b> <b>Selenium</b>, <b>Numpy</b>, <b>Django</b>, <b>Flask</b>, and <b>SKlearn</b>.🐍
 
 <div>
   <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
