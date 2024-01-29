@@ -2,7 +2,7 @@
 ### My name is Leonardo, welcome to my GitHub 🐈‍⬛
  I've been a <b>Fullstack Developer</b> for 3 years and have a degree in Systems Analysis and Development from UNISO - Universidade de Sorocaba.🏆
  <br><br>
- I specialize in Web Development, RPA, Machine Learning, and Data Science. My skills include <b>Python</b>, <b>JavaScript</b>, <b>PHP</b>, <b>Java</b>, <b>NodeJS</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>RESTful API</b>, <b>Git</b>, among others.✈️
+ I specialize in Web Development, RPA, Machine Learning, and Data Science. My skills include <b>Python</b>, <b>JavaScript</b>, <b>PHP</b>, <b>Java</b>, <b>NodeJS</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>RESTful API</b>, <b>Git</b>.✈️
  <br><br>
  Currently, I am studying Python and its libraries/frameworks, highlighting: <b>Pandas</b> <b>Selenium</b>, <b>Numpy</b>, <b>Django</b>, <b>Flask</b>, and <b>SKlearn</b>.🐍
 <br><br>
