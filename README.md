@@ -2,7 +2,7 @@
 ### My name is Leonardo, welcome to my GitHub 🐈‍⬛
  I've been a <b>Fullstack Developer</b> for 4 years and have a degree in Systems Analysis and Development from UNISO - Universidade de Sorocaba.🏆
  <br><br>
- I specialize in Web Development and Mobile Development. My skills include <b>Python</b>, <b>Next js</b>, <b>React Native</b>, <b>NodeJS</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>RESTful API</b>, <b>Git</b>.✈️
+ I specialize in Web Development and Mobile Development. My skills include <b>Python</b>, <b>Next js</b>, <b>React Native</b>, <b>NodeJS</b>, <b>MySQL</b>, <b>MongoDB</b>, <b>RESTful API</b>.✈️
  <br><br>
 <div>
   <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
